@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+    android:id="@+id/home_buttom"
+    android:title="Home"
+    android:icon="@drawable/ic_home_black_24dp"
+    ></item>
+    <item
+        android:id="@+id/Store_buttom"
+        android:title="Store"
+        android:icon="@drawable/ic_store_black_24dp"
+        ></item>
+
+    <item
+        android:id="@+id/Products_buttom"
+        android:title="Products"
+        android:icon="@drawable/ic_receipt_black_24dp"
+        ></item>
+    <item
+        android:id="@+id/Cart_buttom"
+        android:title="Cart"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        ></item>
+
+    <item
+        android:id="@+id/Account_buttom"
+        android:title="Accounts"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        ></item>
+
+
+</menu>
